@@ -1,0 +1,37 @@
+[
+  {
+    "sender": "boss@example.com",
+    "subject": "Project X deadline",
+    "body": "Please submit the report by Friday",
+    "date": "2025-12-01",
+    "category": "VIP"
+  },
+  {
+    "sender": "ceo@example.com",
+    "subject": "URGENT: Meeting today",
+    "body": "Important meeting at 3 PM",
+    "date": "2025-12-01",
+    "category": "VIP"
+  },
+  {
+    "sender": "colleague@example.com",
+    "subject": "Lunch plan",
+    "body": "Are you free for lunch tomorrow?",
+    "date": "2025-12-01",
+    "category": "General"
+  },
+  {
+    "sender": "team@example.com",
+    "subject": "Weekly sync",
+    "body": "Please join the weekly team sync",
+    "date": "2025-12-02",
+    "category": "Meeting"
+  },
+  {
+    "sender": "client@example.com",
+    "subject": "Invoice pending",
+    "body": "Your invoice #1234 is pending",
+    "date": "2025-12-02",
+    "category": "Follow-up"
+  }
+]
